@@ -1,0 +1,402 @@
+[
+  {
+    "task_id": "9c564c44-1226-40b7-808f-a21c809acd44",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Add a handle to the mug. Keep everything else the same.",
+    "width": 3584,
+    "height": 4800
+  },
+  {
+    "task_id": "9f573986-1b1f-47dc-a8e4-3f8d5d4b980b",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Change the color of the vinyl inner circle from white to blue to exactly match the blue top of the perfume bottle. Keep everything else the same.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "59072984-1f57-4543-8920-9224c2741382",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Change the artwork to be on a cream label instead of directly printed on the bottle. Keep everything else the same.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "e4c3cd71-cadb-4c6c-8c8a-d22fdf3312ac",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Remove the metal dots on her nails. Ensure that nothing else changes in the scene.",
+    "width": 3584,
+    "height": 4800
+  },
+  {
+    "task_id": "3387986d-3c21-47f7-9a2d-6de6d0352fb7",
+    "input_images": ["001.webp"],
+    "task_type": "enhance",
+    "instruction": "Remove the stylistic product motion blue so that the product is crisp and in focus. Keep everything else the same.",
+    "width": 3584,
+    "height": 4800
+  },
+  {
+    "task_id": "1f4b299d-5416-407b-a106-27ca5b37a9a7",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Move the product to be in the left third so there's space on the right hand side. Keep everything else the same.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "b77c8de4-1ff1-4faa-8500-3c53494fd10b",
+    "input_images": ["001.webp"],
+    "task_type": "remove",
+    "instruction": "Remove all the artwork elements from the bag apart from its base color. Keep everything else the same.",
+    "width": 5504,
+    "height": 3072
+  },
+  {
+    "task_id": "def4df56-18b0-4daf-acaa-61de0e541b21",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Change the heart shaped badge on her arm to be a hexagon shape. Keep everything else the same.",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "task_id": "7faf1bbc-f332-47dc-8f97-b276a39b803e",
+    "input_images": ["001.webp"],
+    "task_type": "remove",
+    "instruction": "Remove the tattoos. Keep everything else the same",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "9645906d-f35a-454c-8d85-18120614404d",
+    "input_images": ["001.webp"],
+    "task_type": "restructure",
+    "instruction": "The size of the bottle is about 20% too big, can you reduce the size of the bottle by 20%. Keep everything else the same.",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "task_id": "fec3eef2-fc22-42b7-9ac2-5fe843dc2723",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Change the color of the object from light purple to light pink using the same color tone. Keep everything else the same.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "cc221a17-8bb5-4378-9acb-29a8553a0463",
+    "input_images": ["001.webp"],
+    "task_type": "remove",
+    "instruction": "Remove all of the text on the drinks. Keep everything else the same.",
+    "width": 2304,
+    "height": 1728
+  },
+  {
+    "task_id": "7b53d196-1b36-4910-842c-021944846987",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Rotate the object so it is directly front-facing without any vertical tilt or side rotation. Keep everything else the same.",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "task_id": "e74e5a16-2dae-421a-b78b-114fec4b583f",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Convert to extreme high-contrast monochrome with an infrared-like tonal response. Eliminate all color information. Push highlights to near-white and crush shadows to deep black, minimizing mid-tones. Make skin luminous and sculptural, with darkened eyes and exaggerated texture. Emphasize hard, top-down single-source lighting with no fill. Preserve sharp silhouettes and brutalist geometry. Avoid soft gradients, balanced exposure, or cinematic softness. The image should feel alien, oppressive, and ritualistic rather than natural or elegant.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "b0589e18-dea0-4a3f-86f6-63adc72beaec",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Imagine if there was noone there in the scene. Remove the the hand and the product and the liquid coming out of the product. Close the washing machine drawer. Keep everything else the same.",
+    "width": 3584,
+    "height": 4800
+  },
+  {
+    "task_id": "f7c9909c-ce58-4520-bf24-1cf422ee2f0a",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Add a 2 pixel white divider line both horizontally and vertically to divide the four image squares evenly. Keep everything else the same.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "d48d2593-830b-4842-ae17-5d2c4805e230",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Change the age of the woman from early twenties to late forties. Keep everything else the same.",
+    "width": 3584,
+    "height": 4800
+  },
+  {
+    "task_id": "549d430c-1126-44f3-8566-40c835c625b5",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "The lighting is a bit grey and moody. Change it to be summertime vibes with a brighter, sunnier aesthetic. Keep everything else the same in the scene only lighting/sky/clouds can change.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "e000569c-7224-413a-814e-78c7219b7218",
+    "input_images": ["001.webp"],
+    "task_type": "remove",
+    "instruction": "Remove the glow effect at the top and bottom of the bottle as this is not possible. Keep everything else the same.",
+    "width": 2304,
+    "height": 4096
+  },
+  {
+    "task_id": "86ec43e6-b7ba-420b-8b21-f3f7091a2456",
+    "input_images": ["001.webp"],
+    "task_type": ["change"],
+    "instruction": "The label has been degraded around all the edges, restore it to its original pristine condition. Keep everything else the same.",
+    "width": 5504,
+    "height": 3072
+  },
+  {
+    "task_id": "48195405-0d4b-4793-a09d-52c011012854",
+    "input_images": ["001.webp"],
+    "task_type": "remove",
+    "instruction": "Remove the timestamp in the bottom right corner. Keep everything else the same.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "19992795-d13f-484e-9829-7a230942750b",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Change the foot to point to the right. Keep everything else the same.",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "task_id": "c53f7bb0-a4ee-4fb4-82d7-2bf55698e40e",
+    "input_images": ["001.webp", "002.webp"],
+    "task_type": "enhance",
+    "instruction": "Fix the product artwork in the first image [Image 1] by using the second image [Image 2] as the artwork reference. Change the artwork but keep everything else the same.",
+    "width": 3584,
+    "height": 4800
+  },
+  {
+    "task_id": "8037547f-7d2f-462b-9a05-7b324937f27b",
+    "input_images": ["001.webp"],
+    "task_type": "remove",
+    "instruction": "Remove the 4 pills that are not sitting inside the pill box. Keep everything else the same.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "c62a080d-899f-42de-a481-bdf651e2b718",
+    "input_images": ["001.webp"],
+    "task_type": "remove",
+    "instruction": "Remove all the text in the image. Keep everything else the same.",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "task_id": "0dbb106f-0895-437d-abda-75c148b190d8",
+    "input_images": ["001.webp"],
+    "task_type": "restructure",
+    "instruction": "Swap the middle two drinks and their associated text below it. Keep everything else the same.",
+    "width": 4800,
+    "height": 3584
+  },
+  {
+    "task_id": "2bbdd6b5-049c-4072-b8d2-c6f45947125d",
+    "input_images": ["001.webp"],
+    "task_type": "restructure",
+    "instruction": "Swap the positions of the two bears. Keep everything else the same.",
+    "width": 5504,
+    "height": 3072
+  },
+  {
+    "task_id": "e0e79b0d-5fa6-4da2-a8ce-acf678810430",
+    "input_images": ["001.webp"],
+    "task_type": "restructure",
+    "instruction": "Change the angle of this shot so that the camera is at the water level looking slightly up at the fragrance bottle. Don't change anything else.",
+    "width": 3584,
+    "height": 4800
+  },
+  {
+    "task_id": "175762d9-a598-4f60-95b0-68e26c82b41b",
+    "input_images": ["001.webp"],
+    "task_type": ["change"],
+    "instruction": "Add the same black lid to all three bottles. Keep everything else the same.",
+    "width": 5504,
+    "height": 3072
+  },
+  {
+    "task_id": "055c3cf8-5932-4077-8098-7b84ccff501c",
+    "input_images": ["001.webp", "002.webp"],
+    "task_type": "enhance",
+    "instruction": "Fix the product artwork in the first image [Image 1] by using the second image [Image 2] as the artwork reference. Change the artwork but keep everything else the same.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "86952452-69f0-4627-a636-450246049509",
+    "input_images": ["001.webp"],
+    "task_type": "restructure",
+    "instruction": "The bag should be standing straight up sitting on the car. Keep everything else the same.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "d8f61f1e-9442-4a00-9306-f5d8ff45c4d2",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Change the text from 'Glow Bright, Live Bold' to '25% OFF FINAL CHANCE SALE'. Keep everything else the same.",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "task_id": "5885268f-3171-4d67-8120-06173820769b",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Close the case. The top of the case has the brand name 'Dream Big' in a modern luxury san serif font. Keep everything else the same.",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "task_id": "32cb3179-3029-4a70-a714-1d2123b0490c",
+    "input_images": ["001.webp"],
+    "task_type": "remove",
+    "instruction": "Remove the visible sleeve of the person's left arm so both arms are visible. Keep everything else the same.",
+    "width": 3072,
+    "height": 5504
+  },
+  {
+    "task_id": "dc177e19-b8a9-4968-9f02-9fdf9a6dd411",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Change the color of the background to match the tshirt exactly. Keep everything else the same.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "31078944-7e4a-4d01-bb0a-05432dbccb45",
+    "input_images": ["001.webp"],
+    "task_type": ["remove"],
+    "instruction": "Remove just the right hand from the image. Keep everything else the same.",
+    "width": 5504,
+    "height": 3072
+  },
+  {
+    "task_id": "30522145-6263-4572-a531-50549671570a",
+    "input_images": ["001.webp", "002.webp"],
+    "task_type": "enhance",
+    "instruction": "Fix the product artwork in the image [Image 1] by using the second image [Image 2] as the artwork reference. Change the artwork but keep everything else the same.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "32185ddc-daf0-40dc-8055-4726ca6f2a5e",
+    "input_images": ["001.webp"],
+    "task_type": "remove",
+    "instruction": "Remove all the waterdrops on both her arms. Keep everything else the same.",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "task_id": "5ad1da55-08f8-4315-8e80-74f1dd4203b1",
+    "input_images": ["001.webp"],
+    "task_type": "restructure",
+    "instruction": "Change the scene's camera angle so it is a top down view of the exact same scene. Keep everything else the same. The woman should be centre of the shot.",
+    "width": 3584,
+    "height": 4800
+  },
+  {
+    "task_id": "59597102-286f-4134-816f-98a57b72698f",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Change the dark marble table to a light marble table. Keep everything else the same.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "0333f404-f419-480c-88a5-5a1177034075",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Change the jacket color to match the brown bag color exactly. Keep everything else the same.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "50b35957-95f2-40c7-8e65-17587c3b6b00",
+    "input_images": ["001.webp"],
+    "task_type": "remove",
+    "instruction": "Remove all the sweets from the image. Keep everything else the same.",
+    "width": 3584,
+    "height": 4800
+  },
+  {
+    "task_id": "fb010e89-54b8-4738-9db0-f04b1b192169",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Erase the duplicate full stop after 'Vol' and move the 2 to the left to ensure there's an appropriate gap between like 'Vol. 2'. Keep everything else the same.",
+    "width": 3584,
+    "height": 4800
+  },
+  {
+    "task_id": "6659d13b-2286-4574-a661-230c609d7b52",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Change the lighting from sunny day to dusk fading sunlight. Keep everything else the same.",
+    "width": 3072,
+    "height": 5504
+  },
+  {
+    "task_id": "12fdccfb-3547-404c-a2f4-34db41832ba1",
+    "input_images": ["001.webp"],
+    "task_type": "restructure",
+    "instruction": "Re-align all the items so they are all evenly spaced and oriented pointing upwards instead of being angled differently. It should be two rows. The top row is the four items. The bottom row are the three items. Change nothing else about the scene.",
+    "width": 4800,
+    "height": 3584
+  },
+  {
+    "task_id": "08507642-8f59-4f56-81a5-885671702b62",
+    "input_images": ["001.webp"],
+    "task_type": "remove",
+    "instruction": "Remove the photoshopped extra text and graphics from the photo. This is the arrow, korean text and flower graphic superimposed on the photo. Keep everything else the same.",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "task_id": "7f774114-2f5a-479c-9233-94204549628e",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Remove the woman in the front of the image. Fix the woman in the background by removing the leg that is pointing backwards. Keep everything else the same.",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "task_id": "7055256b-0600-45e5-a170-024702c42239",
+    "input_images": ["001.webp"],
+    "task_type": "change",
+    "instruction": "Colorize the photo so it is a realistic coloring taken by a professional photographer. Keep everything else the same.",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "task_id": "90519973-797c-4229-8d9b-4586c4c7fb0b",
+    "input_images": ["001.webp"],
+    "task_type": "remove",
+    "instruction": "Remove the shadow that is fully on the floor, whilst keeping the shadow that lies on the wall. Keep everything else the same.",
+    "width": 3584,
+    "height": 4800
+  },
+  {
+    "task_id": "a39dd0cb-d529-46a6-b726-5b0324cc8918",
+    "input_images": ["001.webp"],
+    "task_type": ["change"],
+    "instruction": "Update the scene so he's at a modern gym not a rundown one. Keep the angle and photo style the same.",
+    "width": 5504,
+    "height": 3072
+  }
+]
