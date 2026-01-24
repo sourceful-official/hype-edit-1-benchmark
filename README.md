@@ -91,7 +91,8 @@ If you use this benchmark in academic or product work, please cite:
 
 ```bibtex
 @misc{hype-edit-1,
-  title = {HYPE-EDIT-1: Benchmark for Measuring Reliability in Frontier Image Editing Models},
+  title = {HYPE-EDIT-1: An Effective-Cost and Reliability
+Benchmark for Image Editing},
   year = {2026},
   howpublished = {GitHub repository},
   url = {https://github.com/sourceful/hype-edit-1-benchmark}
