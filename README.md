@@ -94,7 +94,7 @@ If you use this benchmark in academic or product work, please cite:
   title = {HYPE-EDIT-1: An Effective-Cost and Reliability
 Benchmark for Image Editing},
   year = {2026},
-  howpublished = {GitHub repository},
+  howpublished = {arxiv},
   url = {https://github.com/sourceful/hype-edit-1-benchmark}
 }
 ```
