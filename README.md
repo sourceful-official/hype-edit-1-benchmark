@@ -6,6 +6,8 @@
 
 Benchmark for measuring reliability in frontier image editing models
 
+📄 [arXiv:2602.00105](https://arxiv.org/abs/2602.00105)
+
 There is a big gulf between the hype marketing promoting generative AI models and their real world performance, and we wanted to take some time to measure this quantitatively. We are pleased to release our first public benchmark, called HYPE-EDIT-1, to measure the image editing performance of leading models on their reliability and effective cost on real world test cases based on actual tasks.
 
 Current generative AI benchmarks and the marketing of the models by both influencers and company employees tends to focus on cherrypicked best examples of the model's capability. However, for real world business use cases, it needs to perform reliably well, not just fantastically from time to time.
@@ -91,11 +93,14 @@ If you use this benchmark in academic or product work, please cite:
 
 ```bibtex
 @misc{hype-edit-1,
-  title = {HYPE-EDIT-1: An Effective-Cost and Reliability
-Benchmark for Image Editing},
+  title = {HYPE-EDIT-1: Benchmark for Measuring Reliability in Frontier Image Editing Models},
+  author = {Chan, Wing and Allen, Richard},
   year = {2026},
-  howpublished = {arxiv},
-  url = {https://github.com/sourceful/hype-edit-1-benchmark}
+  eprint = {2602.00105},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CV},
+  url = {https://arxiv.org/abs/2602.00105},
+  doi = {10.48550/arXiv.2602.00105}
 }
 ```
 
